@@ -2,6 +2,7 @@
 This is the code of the project DUconViT, which you can use to train your data. In addition, this code has codes for many models: FCN, Unet, Unet++, MCTrans, MedT, Swin Unet, Transunet, AttUnet, UTnet.
 
 1.If you use colab, you can configure the environment with the following command:
+
 #all
 
 !pip install einops
@@ -17,9 +18,11 @@ This is the code of the project DUconViT, which you can use to train your data. 
 !pip install -U PyYAML
 
 
+
 #Transunet
 
 !pip install ml_collections
+
 
 
 #MCTrans
@@ -44,6 +47,7 @@ Note:
 1)If you don't train mctrans, you can remove the reference to mctrans.
 
 2)If you encounter problems configuring the environment for a model, you can go to the original paper on that model to find out how to configure the environment.
+
 
 
 2.You can make a dataset in the same format as described in the data/readme.md.
