@@ -1,0 +1,6 @@
+img_1
+img_2
+img_3
+......
+
+Use data/make_lists.py to get this list
