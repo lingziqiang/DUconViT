@@ -3,9 +3,7 @@ This is the code of the project DUconViT, which you can use to train your data. 
 
 1.If you use colab, you can configure the environment with the following command:
 
-#all
-
-!pip install einops
+#all  !pip install einops
 
 !pip install timm
 
