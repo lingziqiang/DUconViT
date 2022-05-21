@@ -15,7 +15,7 @@ This is the code of the project DUconViT, which you can use to train your data. 
 
 !pip install medpy
 
-!pip install -U PyYAML
+!pip install -U PyYAML  
 
 
   
