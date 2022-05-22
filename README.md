@@ -1,26 +1,17 @@
 # DUconViT
 This is the code of the project DUconViT, which you can use to train your data. In addition, this code has codes for many models: FCN, Unet, Unet++, MCTrans, MedT, Swin Unet, Transunet, AttUnet, UTnet.
 
-1.If you use colab, you can configure the environment with the following command:
+1.If you use colab, you can configure the environment with the following command:  
+#all  
+!pip install einops  
+!pip install timm  
+!pip install tensorboardX  
+!pip install yacs  
+!pip install medpy  
+!pip install -U PyYAML  
 
-#all
-
-!pip install einops
-
-!pip install timm
-
-!pip install tensorboardX
-
-!pip install yacs
-
-!pip install medpy
-
-!pip install -U PyYAML          
-#Transunet
-
+#Transunet  
 !pip install ml_collections
-
-
 
 #MCTrans
 
